@@ -11,7 +11,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Vortex-Framework">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/Vortex-Framework/.github/blob/main/VortexLogo.png?raw=true" alt="Logo" >
   </a>
 
 <h3 align="center">Vortex Framework</h3>
